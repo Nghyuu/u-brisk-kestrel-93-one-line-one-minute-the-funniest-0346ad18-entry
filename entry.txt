@@ -1,0 +1,1 @@
+I checkpointed the deadline to disk, then restored from an older checkpoint where you hadn't set one yet.
